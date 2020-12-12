@@ -1,4 +1,5 @@
 #SingleInstance, Force
+FileEncoding, UTF-8
 SendMode Input
 SetWorkingDir, %A_ScriptDir%
 
