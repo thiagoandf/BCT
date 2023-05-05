@@ -1,0 +1,11 @@
+{
+  "license": "MIT",
+  "main": "index.js",
+  "name": "scripts",
+  "scripts": {
+    "generateJson": "node generateJson.js",
+    "process": "node index.js"
+  },
+  "type": "commonjs",
+  "version": "1.0.0"
+}
